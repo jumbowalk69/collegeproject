@@ -45,9 +45,9 @@ const Chanakya = () => {
                 <Typography variant="h2" align="center" gutterBottom>
                     Welcome to Chanakya Block
                 </Typography>
-]                <Typography variant="h6" align="center" paragraph>
+{/* ]                <Typography variant="h6" align="center" paragraph>
                     Discover the best products and services tailored just for you.
-                </Typography>
+                </Typography> */}
                 <Box display="flex" justifyContent="center">
                     {/* <Button variant="contained" color="primary" size="large" href="/shop">
                         Shop Now
